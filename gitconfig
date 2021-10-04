@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = daeima87@gmail.com
+	name = Cristina Barbieri
